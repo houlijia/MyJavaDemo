@@ -11,7 +11,12 @@ public class Main {
         // Press Opt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
-
+        int a, b, c;         // 声明三个int型整数：a、 b、c
+        int d = 3, e = 4, f = 5; // 声明三个整数并赋予初值
+        byte z = 22;         // 声明并初始化 z
+        String s = "runoob";  // 声明并初始化字符串 s
+        double pi = 3.14159; // 声明了双精度浮点型变量 pi
+        char x = 'x';        // 声明变量 x 的值是字符 'x'。
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
